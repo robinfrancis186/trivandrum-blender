@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 60,
+  "duration_seconds": 18,
+  "decoded_frames": 1080,
+  "full_decode_errors": "",
+  "interpolation": false,
+  "upscaled": false,
+  "audio": "AAC original score"
+}

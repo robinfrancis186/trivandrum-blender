@@ -1,0 +1,8 @@
+.DS_Store
+work/
+outputs/*
+!outputs/Trivandrum-Closer-1080p60.blend
+!outputs/Trivandrum-Closer-1080p60.mp4
+!outputs/Trivandrum-Closer-1080-Video-Verification.json
+!outputs/Trivandrum-Closer-Camera-Verification.json
+*.blend1
