@@ -1,0 +1,187 @@
+{
+  "blender_version": "5.2.1 LTS",
+  "scene": "TRIVANDRUM • Photo reconstruction",
+  "objects": 778,
+  "object_types": {
+    "CAMERA": 1,
+    "EMPTY": 154,
+    "FONT": 49,
+    "LIGHT": 2,
+    "MESH": 572
+  },
+  "unique_mesh_datablocks": 572,
+  "mesh_vertices_per_object": 695653,
+  "mesh_polygons_per_object": 406944,
+  "assigned_materials": 145,
+  "animated_objects": 114,
+  "object_drivers": 240,
+  "construction_groups": 26,
+  "road_users": {
+    "bicycle": 16,
+    "car": 24,
+    "motorbike": 16
+  },
+  "signal_heads": 80,
+  "trains": [
+    {
+      "name": "Passenger train 1",
+      "child_objects": 1
+    },
+    {
+      "name": "Passenger train 2",
+      "child_objects": 1
+    }
+  ],
+  "title_letters": 10,
+  "title_roofs": 10,
+  "landmark_collections": [
+    {
+      "name": "01 Sree Padmanabhaswamy Temple.001",
+      "objects": 7
+    },
+    {
+      "name": "02 Kuthira Malika Palace.001",
+      "objects": 7
+    },
+    {
+      "name": "03 Napier Museum and Zoological Park.001",
+      "objects": 22
+    },
+    {
+      "name": "04 Kanakakunnu Palace.001",
+      "objects": 8
+    },
+    {
+      "name": "05 Technopark Trivandrum.001",
+      "objects": 9
+    },
+    {
+      "name": "06 Kovalam Beach.001",
+      "objects": 9
+    },
+    {
+      "name": "07 Shanghumukham Beach.001",
+      "objects": 5
+    },
+    {
+      "name": "08 Poovar Island.001",
+      "objects": 7
+    },
+    {
+      "name": "09 Neyyar Wildlife Sanctuary.001",
+      "objects": 12
+    },
+    {
+      "name": "10 Ponmudi Hill Station.001",
+      "objects": 12
+    },
+    {
+      "name": "11 K-DISC HQ India Heights",
+      "objects": 10
+    },
+    {
+      "name": "12 Palayam • Juma Masjid and Ganapathy Temple",
+      "objects": 4
+    },
+    {
+      "name": "13 Palayam • St Joseph Metropolitan Cathedral",
+      "objects": 3
+    },
+    {
+      "name": "14 Kerala Government Secretariat",
+      "objects": 3
+    },
+    {
+      "name": "15 Neyyar Dam • four spillway gates",
+      "objects": 4
+    },
+    {
+      "name": "16 Vizhinjam International Seaport",
+      "objects": 5
+    },
+    {
+      "name": "17 State Central Library",
+      "objects": 4
+    },
+    {
+      "name": "18 Thampanoor KSRTC Bus Terminal",
+      "objects": 4
+    },
+    {
+      "name": "19 Thiruvananthapuram International Airport",
+      "objects": 8
+    },
+    {
+      "name": "20 Greenfield International Stadium",
+      "objects": 3
+    },
+    {
+      "name": "21 LuLu Mall Thiruvananthapuram",
+      "objects": 5
+    },
+    {
+      "name": "22 Kerala Legislative Assembly • Niyamasabha",
+      "objects": 4
+    },
+    {
+      "name": "23 LMS • CSI Mateer Memorial Church",
+      "objects": 3
+    },
+    {
+      "name": "24 Trivandrum public statues",
+      "objects": 5
+    },
+    {
+      "name": "25 Railway • double track viaduct and station",
+      "objects": 7
+    }
+  ],
+  "images": [
+    {
+      "name": "heritage-material-atlas.png",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "temple-elevation.png",
+      "packed": true,
+      "size": [
+        1416,
+        1111
+      ]
+    }
+  ],
+  "sounds": [
+    {
+      "name": "Trivandrum-Photo-Rebuild-score.wav",
+      "packed": true
+    }
+  ],
+  "embedded_texts": 25,
+  "render": {
+    "engine": "BLENDER_EEVEE",
+    "size": [
+      1920,
+      1080
+    ],
+    "percentage": 100,
+    "fps": 60,
+    "fps_base": 1.0,
+    "frames": [
+      1,
+      1080
+    ],
+    "samples": 32,
+    "motion_blur": true,
+    "shutter": 0.3499999940395355,
+    "color_transform": "AgX",
+    "look": "AgX - Medium High Contrast",
+    "exposure": 0.25,
+    "camera_type": "ORTHO"
+  },
+  "source_file": "outputs/Trivandrum-Closer-1080p60.blend",
+  "source_sha256": "b06887fcd706968498c2b8a61d45a8c38cb3461645fca2499c0ce4d39432de04"
+}
