@@ -154,3 +154,7 @@ The project packs two image textures—`heritage-material-atlas.png` and `temple
 The final MP4 was fully decoded: **1,080 frames, 1920 × 1080, 60 fps, 18 seconds**, with no decode errors. The four camera scale keys were checked in the saved Blender project. The inventory reports the main scene's stored objects and geometry; it is not a count of rendered pixels, evaluated triangles or individual architectural details.
 
 This is a **stylized, condensed miniature** with approximate architecture, geography and statue likenesses. It is not a surveyed city map or an exact, hyperrealistic reconstruction. No personal employment dates appear in the film.
+
+## Licensing
+
+No repository-wide LICENSE file is included. This documentation does not grant a new software license. Existing third-party licenses and notices continue to apply to their respective code, datasets, artwork, and trademarks. Contact the maintainers to clarify permissions before redistributing project-owned material.
